@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="figma_orange">#E8773C</color>
+    <color name="figma_dark_blue">#0A4A83</color>
+    <color name="figma_light_gray">#D9D9D9</color>
+</resources>
