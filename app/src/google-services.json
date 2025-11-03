@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259836625965",
+    "project_id": "mobileappfinalproject-6cdfe",
+    "storage_bucket": "mobileappfinalproject-6cdfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259836625965:android:56a5fff384184705f7e4a4",
+        "android_client_info": {
+          "package_name": "com.nathanielmanoj.mobileappfinalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlr37EJDsWeAV5KU2XndBihlf93xjdtlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
